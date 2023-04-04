@@ -76,10 +76,10 @@
                     <div className="vkm">
                         <img className="vvv" src="pgm.jpg" alt="" />
                         <h3 className="jour">DIMANCHE</h3>
-                        <p>1er Culte de 8h00 à 10h30 </p>
-                        <p>2ème Culte de 10h30 à 12h00
+                        <p className="prgmdim">1er Culte de 8h00 à 10h30 </p>
+                        <p className="prgmdim">2ème Culte de 10h30 à 12h00
                         (diffusé en Live) 🔴</p>
-                        <p>3ème Culte de 12h30 à 14h30</p>
+                        <p className="prgmdim">3ème Culte de 12h30 à 14h30</p>
                     </div>
                     <div className="vkm">
                         <img className="vvv" src="fond1.jpg" alt="" /> 
@@ -99,6 +99,21 @@
 
                     </div>
 
+                </div>
+
+            </div>
+
+            <div className="don">
+                <div className="infoeglise3">
+                <h1>FAIRE UN DON </h1>
+                <p class="achp">
+                    Les dons ponctuels sont une manière simple, concrète et sans engagement d’agir à nos côtés
+                    en faveur des personnes les plus démunis n'ayant pas la possibilité de subvenir à leurs besoins.
+                    En donnant, vous aidez une personne à trouver de la valeur dans cette société
+                    et vous nous permettez de mettre en place de nouveaux projets.
+                    Faire un don, c’est agir pour l’avenir.
+                 </p>
+                 <button class="btn"><a href="faireUnDon.html">DON</a></button>
                 </div>
 
             </div>
