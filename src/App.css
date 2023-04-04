@@ -1,0 +1,186 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: white;
+  width: 100%;
+}
+
+.navbar-nav{
+  list-style-type: none;
+  text-decoration: none;
+  display: flex;
+  padding: 30px;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+  font-weight: bold;
+  gap: 190px;
+
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  width: 200px;
+}
+
+.dis{
+  display: flex;
+  gap: 30px;
+  
+}
+
+.presentation{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(rgba(12, 1, 62, 0.7), rgba(11, 1, 44, 0.7)), url('/public/fond2.jpg');
+  background-size: cover;
+  height: 900px;
+}
+
+.imglo{
+  width: 150px;
+}
+
+.egli2{
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+
+}
+
+.egli3{
+  color: white;
+  width: 150px;
+  height: 150px;
+  display: flex;
+  flex-direction: row;
+}
+
+.apropos{
+  background-image: linear-gradient(rgba(3, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("/public/aprop.jpg");
+  background-size: cover;
+  height: 500px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  color: white;
+}
+
+.infoeglise{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1{
+  text-align: center;
+  font-size: 56px;
+}
+
+.achp{
+  width: 1088.7px;
+  height: 129px;
+  font-size: 20px;
+}
+
+.btn{
+  width: 168px;
+  height: 50px;
+  font-size: 16px;
+}
+
+.Valeurs{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  height: 400px;
+}
+
+
+.achat{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(65, 64, 64, 0.7)),url("/public/achatpar.jpg");
+  background-size: cover;
+  height: 500px;
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.pasteur{
+  display: flex;
+  flex-direction: row;
+  background-color: #efefef;
+  height: 600px;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.biographi{
+  display: flex;
+  flex-direction: column;
+  height: 570px;
+  width: 600px;
+  justify-content: center;
+  padding: 70px;
+  gap: 20px;
+  
+}
+
+
+.btnBio{
+  width: 174px;
+  height: 50px;
+  color: white;
+  border: none;
+  background-color: #9C9C9C;
+}
+
+
+.imagePro{
+  display: flex;
+  flex-direction: column;
+  background-color: #f3f0f0;
+  justify-content: center;
+  align-items: center;
+  padding: 10%;
+  height: 400px;
+
+}
+
+.pgm1{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+ 
+   
+}
