@@ -74,24 +74,24 @@
                 <p>Les Differents Progrommes au sien de l'Eglise</p>
                 <div className="pgm1">
                     <div className="vkm">
-                        <img src="pgm.jpg" alt="" />
-                        <h3>DIMANCHE</h3>
-                        <p>1er Culte de 8h00 à 10h30 
-                        2ème Culte de 10h30 à 12h00
-                        (diffusé en Live) 🔴
-                        3ème Culte de 12h30 à 14h30</p>
+                        <img className="vvv" src="pgm.jpg" alt="" />
+                        <h3 className="jour">DIMANCHE</h3>
+                        <p>1er Culte de 8h00 à 10h30 </p>
+                        <p>2ème Culte de 10h30 à 12h00
+                        (diffusé en Live) 🔴</p>
+                        <p>3ème Culte de 12h30 à 14h30</p>
                     </div>
                     <div className="vkm">
-                        <img src="eglise1.jpg" alt="" />
-                        <h3>MERCREDI</h3>
+                        <img className="vvv" src="fond1.jpg" alt="" /> 
+                        <h3 className="jour">MERCREDI</h3>
                         <p className="ex1">
                         Mercredi “Soirées de Gloire” 
                         De 1630 à 19h00
                         </p>
                     </div>
                     <div className="vkm">
-                        <img src="chorale 3.jpg" alt="" />
-                        <h3>VENDREDI</h3>
+                        <img className="vvv" src="chorale 3.jpg.jpg" alt="" />
+                        <h3 className="jour">VENDREDI</h3>
                         <p class="ex1">
                             « Intercession et Étude Biblique » 
                             De 16h30 à 19h00
