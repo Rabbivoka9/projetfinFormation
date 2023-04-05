@@ -115,7 +115,29 @@
                  </p>
                  <button class="btn"><a href="faireUnDon.html">DON</a></button>
                 </div>
+            </div>
 
+            <div className="formation">
+                <div className="infoeglise2">
+                    <h1>NOS FORMATIONS</h1>
+                    <p class="ex3">
+                        Découvrez l'ensemble des formations dispensées par le CREFM,
+                        Des formations qui vous permettront de grandir spirituellement.
+                    </p>
+                    <button class="btn"><a href="formation.html">DECOUVRIR</a></button>
+                </div>
+
+            </div>
+
+
+            <div className="enseignent">
+                <h1 className="nos-en">NOS ENSEIGNEMENTS</h1>
+                <p class="achp">
+                    Suivez les cultes en direct ou en différé sur YouTube et Facebook
+                </p>
+                <div class="tube">
+                    <iframe width="950" height="600" src="https://www.youtube.com/embed/j6mnPuN-hjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div> 
             </div>
 
         

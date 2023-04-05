@@ -227,6 +227,49 @@ h3{
 }
 
 
+.formation{
+  background-image: linear-gradient(rgba(78, 2, 42, 0.7), rgba(29, 0, 20, 0.7)),url("/public/formation.jpg");
+  background-size: cover;
+  height: 400px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.infoeglise2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  text-align: justify;
+  color: white;
+  gap: 30px;
+  /* height: 60%; */
+}
+
+
+.enseignent{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 850px;
+  background-color: white;
+  color: black;
+  padding: 10%;
+  gap: 30px;
+  }
+
+  .nos-en{
+    text-align: center;
+  }
+
+
 
 
 
